@@ -2,3 +2,4 @@ to-do
 =====
 
 [*] make an universal freax product makefile (build/target/product)
+[*] increase proportionally with lcd_density value screen resolution
