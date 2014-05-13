@@ -3,3 +3,4 @@ to-do
 
 [*] make an universal freax product makefile (build/target/product)
 [*] increase proportionally with lcd_density value screen resolution
+[*] reach a target package that weighs at max 100mb
